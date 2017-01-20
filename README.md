@@ -5,6 +5,7 @@
 
 ###alaotsikko
 [Slack](https://jamk-it.slack.com/)
+![kissa](https://fi.wikipedia.org/wiki/Kissa#/media/File:WhiteCat.jpg)
 ####alotsikko
 
 #####alaotsikko
