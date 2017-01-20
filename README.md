@@ -5,6 +5,7 @@
 
 ###alaotsikko
 [Slack](https://jamk-it.slack.com/)
+[wiki](https://github.com/Agumonn/Repoma/wiki)
 
 ![](http://img12.deviantart.net/9f2f/i/2015/178/b/3/hackerman_cosplay_by_inightfaller-d8z1nu3.png)
 ####Samu L Jaakonpoika
