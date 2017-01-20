@@ -6,6 +6,10 @@
 ###alaotsikko
 [Slack](https://jamk-it.slack.com/)
 ![kissa](https://fi.wikipedia.org/wiki/Kissa#/media/File:WhiteCat.jpg)
-####alotsikko
+####Samu L Jaakonpoika
+
+|Leffa|Julkaisuvuosi|
+|:----|-------------|
+|pulp fiction|1994|
 
 #####alaotsikko
