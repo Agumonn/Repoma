@@ -1,6 +1,6 @@
 # TTOS0100 Ohjelmistosuunnittelu
 
-##Sähköisnen opinnäytetyön arviointityökalun vaatimusmäärittely
+##Sähköinen opinnäytetyön arviointityökalun vaatimusmäärittely
 
 
 ###Tiedot
